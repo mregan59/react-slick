@@ -7,7 +7,6 @@ TODO.md
 test
 testlib
 bower.json
-gulpfile.js
 karma.conf.js
 LICENSE
 webpack.config.dist.js
