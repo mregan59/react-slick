@@ -9,7 +9,7 @@
     ],
     "scripts": {
         "start": "gulp server",
-        "build": "gulp clean && gulp sass && gulp copy && webpack",
+        "build": "webpack",
         "test": "npm run lint && jest",
         "test:watch": "jest --watch",
         "lint": "eslint src",
